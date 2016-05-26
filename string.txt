@@ -1,2 +1,5 @@
 
 <string name=app_name>
+add string 1
+add string 2
+add string 3
